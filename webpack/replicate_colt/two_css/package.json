@@ -1,0 +1,20 @@
+{
+  "name": "two",
+  "version": "1.0.0",
+  "description": "1) Add webpack.config.js style-loader, css-loader and a test css file debug and verify 2) add sass, and leave css there also. Does superset use both CSS and scss? yes and styled conponents for react",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "sass": "^1.78.0",
+    "sass-loader": "^16.0.1",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
