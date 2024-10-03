@@ -21,6 +21,7 @@
     "webpack-plugin-serve": "^1.6.0"
   },
   "devDependencies": {
+    "mini-css-extract-plugin": "^2.9.1",
     "sass": "^1.79.4"
   }
 }
