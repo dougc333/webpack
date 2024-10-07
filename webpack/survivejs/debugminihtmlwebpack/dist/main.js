@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log(\"asf\")\n\n\n\n//# sourceURL=webpack://debugminihtmlwebpack/./src/index.js?");
+eval("\n\n\n\n//# sourceURL=webpack://debugminihtmlwebpack/./src/index.js?");
 
 /***/ })
 
